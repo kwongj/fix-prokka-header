@@ -40,7 +40,7 @@ Please submit via the [GitHub issues page](https://github.com/kwongj/fix-prokka-
 
 ##Software Licence
 
-[GPLv3](https://github.com/kwongj/fix-prokka-header/blob/master/LICENCE)
+[GPLv3](https://github.com/kwongj/fix-prokka-header/blob/master/LICENSE)
 
 ##Links
 * [Prokka](https://github.com/tseemann/prokka)
